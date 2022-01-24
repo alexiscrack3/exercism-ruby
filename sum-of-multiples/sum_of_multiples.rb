@@ -1,6 +1,3 @@
-# Loop through the a range of number, starting from 1 to the given number
-# create an array to store numbers that are multiple of 3 or 5
-# sum all the numbers
 class SumOfMultiples
   def initialize(*divisors)
     @divisors = divisors
